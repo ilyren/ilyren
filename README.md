@@ -1,3 +1,6 @@
+### About me
+self-taught backend dev, python/go, into distributed systems and performance. currently building small python projects, learning sql
+
 ### Core Skills
 
 <p align="left">
@@ -5,5 +8,4 @@
 </p>
 
 - **Languages**: Python, Go, C
-- **Backend**: REST APIs
 - **Tools**: Docker, Git, Linux
