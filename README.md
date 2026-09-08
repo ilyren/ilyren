@@ -1,3 +1,5 @@
-[![Core Skills](https://skillicons.dev/icons?i=py,go,c,git,docker)](https://skillicons.dev)
-- Languages: python, go, c
-- Tools: docker, git, linux
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,go,c,git,docker&theme=dark" alt="Core Skills" />
+</p>
+- Languages: Python, Go, C
+- Tools: Docker, Git, Linux
